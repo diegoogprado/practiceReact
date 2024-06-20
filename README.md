@@ -43,7 +43,7 @@ A medida que for construindo novos componentes, estarei realizando novos commits
 
 Instalação do ReactJS utilizando o Vite.
 
-Composição da aplicação criada usando Components recebendo props como parâmentros nos componentes, facilitando a reutilização desses em novos projetos.
+Composição da aplicação criada usando Components recebendo props como parâmetros nos componentes, facilitando a reutilização desses em novos projetos.
 
 Uso dos hooks para chamar a função que recebe o evento de clique e altera as classes do "menu hamburguer" que expõe o menu oculto através do "useState".
 
